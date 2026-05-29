@@ -61,3 +61,36 @@ Obsessed with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux
 <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
 
 </div>
+
+---
+
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+### Building premium digital experiences, cinematic interfaces & powerful backend systems.
+
+<br>
+
+<a href="https://github.com/karthidev-sudo">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/kxrthi.xz_">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="mailto:karthuno16@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://karthilabs.in">
+  <img src="https://img.shields.io/badge/ONYXIUM.DEV-ffffff?style=for-the-badge&logo=vercel&logoColor=black" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=karthidev-sudo&style=for-the-badge&color=blueviolet" />
+
+</div>
