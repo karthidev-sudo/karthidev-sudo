@@ -86,11 +86,9 @@ Obsessed with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux
 </a>
 
 <a href="https://karthilabs.in">
-  <img src="https://img.shields.io/badge/ONYXIUM.DEV-ffffff?style=for-the-badge&logo=vercel&logoColor=black" />
+  <img src="https://img.shields.io/badge/Karthilabs.in-ffffff?style=for-the-badge&logo=vercel&logoColor=black" />
 </a>
 
 <br><br>
-
-<img src="https://komarev.com/ghpvc/?username=karthidev-sudo&style=for-the-badge&color=blueviolet" />
 
 </div>
