@@ -14,13 +14,26 @@ I’m a developer focused on building scalable, cinematic web applications and h
 
 ---
 
+
 # 🚀 MERN Stack Developer | 🐧 Arch Linux Enthusiast
 
-I’m a Software Engineer focused on building scalable web apps and highly customized Linux environments. I blend the power of the web with the efficiency of the terminal.
+I’m a Software Engineer focused on building scalable web applications, cinematic user interfaces, and highly customized Linux environments.  
+I enjoy blending modern frontend aesthetics with efficient backend architecture and terminal-driven workflows.
 
-    🔭 I’m currently working on RiceHub (A platform for Linux ricers)
-    🐍 I build custom TUI tools like Rofify
-    💻 My daily driver: Arch Linux + Hyprland
+Obsessed with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="18"/> Linux
+
+* 🔭 Currently building **Onyxium.dev** — a modern startup focused on premium web experiences & digital solutions
+* 🧠 Exploring advanced backend systems, scalable architectures, and automation workflows
+* 🎨 Crafting cinematic interfaces using **Next.js**, **Framer Motion**, and **TailwindCSS**
+* 🐧 Living inside **Arch Linux + Hyprland**
+* ⚡ Writing custom Linux tooling, shell scripts, and Quickshell widgets
+* 🚀 Building side projects focused on developer experience & modern web ecosystems
+* 💻 Daily stack: `TypeScript`, `React`, `Node.js`, `MongoDB`, `Linux`
+* 🌌 Passionate about creating interfaces that feel immersive, fast, and premium
+
+> "I don't just build websites — I build experiences."
+
+---    
 
 ## 🧠 Core Stack Analytics
 
